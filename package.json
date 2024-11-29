@@ -108,7 +108,7 @@
     "url-parse": "^1.5.1",
     "viewerjs": "^1.5.0",
     "webpack": "4.41.5",
-    "webpack-dev-server": "^3.11.0",
+    "webpack-dev-server": "^5.1.0",
     "webpack-manifest-plugin": "2.2.0",
     "wicket": "^1.3.6",
     "workbox-webpack-plugin": "4.3.1"
